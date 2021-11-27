@@ -13,13 +13,13 @@ This repository containing cross-section cut and fill calculations using Python 
 		3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
   		3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD applications.  
   
-3.2.  Delete all the folder that has prefix "output"   
+	3.2.  Delete all the folder that has prefix "output"   
   
-3.3.  Run main.bat to process input and produces existing cross-section based on GPS raw data.  
+	3.3.  Run main.bat to process input and produces existing cross-section based on GPS raw data.  
   
-3.4.  Run main2.bat to process cut and fill volume.  
+	3.4.  Run main2.bat to process cut and fill volume.  
   
-3.5.  Run main3.bat to make AutoCAD script.  
+	3.5.  Run main3.bat to make AutoCAD script.  
   
-3.6.  Voila, drag .scr file from output_scr file to AutoCAD and you will get thousands of existing and planned cross-sections.  
+	3.6.  Voila, drag .scr file from output_scr file to AutoCAD and you will get thousands of existing and planned cross-sections.  
        
