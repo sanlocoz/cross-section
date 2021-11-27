@@ -10,10 +10,8 @@ This repository containing cross-section cut and fill calculations using Python 
 	3.1. You have to familiarize yourself with csv in input file. Parameters are given in Indonesian. There will be an update for the English version.  
   
 		3.1.1. input         = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD applications.  
+		3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
+  		3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD applications.  
   
 3.2.  Delete all the folder that has prefix "output"   
   
