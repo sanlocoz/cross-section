@@ -1,5 +1,5 @@
 # cross-section
-This repository containing cross-section cut and fill calculations using Python programming language. This codes is made to calculate cut and fill volume in open channel planning.
+This repository is containing cut and fill calculations for cross-section using Python programming language. This codes is made to calculate cut and fill volume in open channel planning.
 
 1. Input file is given in the folder that has prefix "input".
   
@@ -11,7 +11,7 @@ This repository containing cross-section cut and fill calculations using Python 
   
 		3.1.1. input         = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
 		3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
-  		3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD applications.  
+  		3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD application.  
   
 	3.2.  Delete all the folder that has prefix "output".
   
