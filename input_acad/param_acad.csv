@@ -1,0 +1,43 @@
+Deskripsi;Parameter;Keterangan
+Garis Tabel;GarisTabel;Layer garis tabel
+Garis Putus-putus;GarisPutus;Layer garis putus
+Garis Skala Elevasi;GarisSkalaElevasi;Layer skala elevasi
+Garis Elevasi Tanah;GarisElevasiTanah;Layer elevasi tanah
+Text Elevasi/Distance;TextElevasiDistance;Layer text elevasi
+Rencana;Rencana;Layer elevasi rencana
+Text;Text;Layer text
+X;145.6291;Awal Gambar (Base point gambar pertama di kertas di ujung kiri atas)
+Y;345.987;Awal Gambar (Base point gambar pertama di kertas di ujung kiri atas)
+n;10;Jumlah kertas (kolom)
+m;10;Jumlah kertas (baris)
+jn;50;Jarak antar kertas (kolom)
+jm;50;Jarak antar kertas (baris)
+i;2;Jumlah gambar 1 kertas (baris)
+j;1;Jumlah gambar 1 kertas (kolom)
+ji;13;Jarak antar baris  gambar 1 kertas
+jj;0;Jarak antar kolom gambar 1 kertas
+X_galtim;140.4291;Ujung kiri kotak galtim
+Y_galtim;352.487;Ujung kiri kotak galtim
+Lebar judul galtim;3;Lebar judul galtim
+Tinggi judul galtim;0.4;Tinggi Judul galtim
+Lebar kotak galtim;1.4443467;Lebar 1 kotak galtim
+Tinggi kotak galtim;0.3;Tinggi 1 kotak galtim
+Lebar tulisan galtim;1.1056533;lebar tulisan galtim
+Tinggi kotak elev tanah asli;1.3;Tinggi kotak elevasi tanah asli (ogl)
+Tinggi kotak jarak;1.3;Tinggi kotak jarak
+Tinggi kotak elevasi rencana;1.3;Tinggi elevasi rencana
+Pengurang Datum;4;Pengurang Datum Elevasi dari Min
+X_grid;140.4291;x grid awal
+Y_grid;345.987;y grid awal
+Jarak X grid ke Skala;4.3679;Jarak dari X grid ke skala (Right centre)
+Jarak X ke Datum;3.409;Jarak X dari datum ke x grid (Datum Middle Centre)
+Jarak Y ke Datum;0.2234;Jarak Y dari datum ke y grid
+Jumlah elev grid;7;Jumlah tulisan elev grid
+Perbedaan antar elevasi grid;1;Step
+Jarak Y ke Judul STA;4.58;Dihitung dari base point gambar pertama
+Tulisan galtim;TextEnglish;Layer tulisan galtim
+Tulisan dimensi;Dimensi;Layer dimensi
+Ukuran dimensi lapis 1;0.5;Ukuran dimensi lapis 1
+Ukuran dimensi lapis 2;1;Ukuran dimensi lapis 2
+Jarak dimensi horizontal;0.5;Jarak dimensi horizontal
+Jarak dimensi vertikal;0.5;Jarak dimensi vertikal

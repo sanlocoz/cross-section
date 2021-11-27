@@ -1,0 +1,21 @@
+Stasiun;Tg.Ki;Slope Talud Kiri (Tg. Ki);Lebar (Tg. Ki);Tinggi (Tg. Ki);Slope Talud Kanan (Tg. Ki);Lebar Jalan Kiri;Sal;Slope Talud Kiri;Lebar Dasar;Kedalaman ;Slope Talud Kanan;Tg.Ka;Lebar Jalan Kanan;Slope Talud Kiri (Tg. Ka);Lebar (Tg. Ka);Tinggi (Tg. Ka);Slope Talud Kanan (Tg. Ka);X Tengah;Z Tengah;Tinggi Galtim Kiri;Tinggi Galtim Saluran;Tinggi Galtim Kanan;Ikat (s/ki/ka);Galtim (s/ki/ka);Gambar (s/ki/ka/l) (saluran/tanggul kiri/tanggul kanan/lengkap);Tambah eksisting (y/n);Tambah Eksisting Kiri;Tambah Eksisting Kanan
+STA 0+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010462787;4.2;7;7;7;s;s;s;n;0;0
+STA 0+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010462789;4.1785;7;7;7;s;s;s;n;0;0
+STA 1+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011201753;4.157;7;7;7;s;s;s;n;0;0
+STA 1+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010730463;4.1355;7;7;7;s;s;s;n;0;0
+STA 2+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011214444;4.114;7;7;7;s;s;s;n;0;0
+STA 2+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010232988;4.0925;7;7;7;s;s;s;n;0;0
+STA 3+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010718699;4.071;7;7;7;s;s;s;n;0;0
+STA 3+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011206662;4.0495;7;7;7;s;s;s;n;0;0
+STA 4+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010233124;4.028;7;7;7;s;s;s;n;0;0
+STA 4+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010717554;4.0065;7;7;7;s;s;s;n;0;0
+STA 5+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011204657;3.985;7;7;7;s;s;s;n;0;0
+STA 5+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010728091;3.9635;7;7;7;s;s;s;n;0;0
+STA 6+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011219086;3.942;7;7;7;s;s;s;n;0;0
+STA 6+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.01119218;3.9205;7;7;7;s;s;s;n;0;0
+STA 7+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010716292;3.899;7;7;7;s;s;s;n;0;0
+STA 7+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011203324;3.8775;7;7;7;s;s;s;n;0;0
+STA 8+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011205204;3.856;7;7;7;s;s;s;n;0;0
+STA 8+50;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.010718325;3.8345;7;7;7;s;s;s;n;0;0
+STA 9+00;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011204657;3.813;7;7;7;s;s;s;n;0;0
+STA 9+43;KIRI;0;0;0;0;0;SALURAN;0.5;2.2;1.9;0.5;KANAN;0;0;0;0;0;6.011218267;3.79451;7;7;7;s;s;s;n;0;0
