@@ -7,7 +7,7 @@ This repository is containing cut and fill calculations for cross-section using 
   
 3. Here are some steps to use this program:  
 
-	3.1. You have to familiarize yourself with csv in input file. Parameters are given in Indonesian. There will be an update for the English version.  
+	3.1. You have to familiarize yourself with csv in input file. Parameters are given in Indonesian.
   
 		3.1.1. input         = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
 		3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
