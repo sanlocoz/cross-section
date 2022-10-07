@@ -7,6 +7,7 @@ It converts precision GPS data into cross-section data and later it is overlaid 
 ## Algorithms and concepts
 Data scarcity in our country and limitations in high-quality surveying techniques, made us rely on precision GPS data to obtain topography data.
 
+The raw data that is obtained is in the format of easting, northing and elevation (E, N, Z respectively).
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
@@ -17,7 +18,7 @@ Data scarcity in our country and limitations in high-quality surveying technique
 
 	3.1. You have to familiarize yourself with csv in input file. Parameters are given in Indonesian language.
   
-		3.1.1. input         = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
+		3.1.1. input       	 = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
 		3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
   		3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD application.  
   
