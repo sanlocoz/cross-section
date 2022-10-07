@@ -45,6 +45,8 @@ Therefore to get best regression line we have to substract all N and E coordinat
 *N-E regression (plan view) with normalization*
 
 ### Cross-section results
+After regression and normalization process, we get the most likely cross-section by bringing all the points to the regression line. The results is as follows:
+
 Name | Station | Z | Delta X | Cumulative X
 | :----:   | :----:  | :----:   | :----:   | :----: |
 STA 0+00 | A | 18.65 | 0 | 0
