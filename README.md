@@ -63,7 +63,7 @@ STA 0+00 | B | 18.32 | 0.724849 | 7.480187
 
 <br>
 
-<img src="img/3.PNG" alt="cross section" width="600"/> 
+<img src="img/3.PNG" alt="cross section" width="500"/> 
 
 *Sample cross-section output*
 
