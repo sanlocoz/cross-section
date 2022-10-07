@@ -12,7 +12,7 @@ E, N, Z data is taken in a straight line that is perpendicular to the long secti
 This is one of the sample data in UTM projection. 
 
 |Name|Station|E (m)|N (m)|Z (m)|
-| --- | --- | --- | --- | --- |
+| :----:   | :----:  | :----:   | :----:   | :----: |
 |STA.0+00| 	A	|487464.944	|9662010.643	|18.650|
 |STA.0+00|	A1	|487464.168	|9662011.063	|18.570|
 |STA.0+00|	A2	|487463.685	|9662011.385	|18.070|
