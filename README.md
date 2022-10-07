@@ -31,7 +31,12 @@ Regression is done to estimate the most likely cross-section from survey data.
 Regression process is done with <a href = "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html"> sklearn.linear_model.LinearRegression</a> class in the <a href="https://scikit-learn.org/">scikit-learn</a> library.
 
 
-Normalization is needed for the coordinates data
+Normalization is needed for the coordinates using UTM projection. Why?
+
+
+<img src="img/1.PNG" alt="without normalization" width="700"/>
+
+<img src="img/2.PNG" alt="with normalization" width="700"/>
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
