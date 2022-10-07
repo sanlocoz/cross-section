@@ -9,7 +9,7 @@ Data scarcity in our country and limitations in high-quality surveying technique
 
 ### Raw data
 The raw data that is obtained is in the format of easting, northing and elevation (E, N, Z respectively).
-E, N, Z data is taken in a straight line that is perpendicular to the long section of an open channel.
+E, N, Z data is (hopefully) taken in a straight line that is perpendicular to the long section of an open channel.
 This is one of the sample data in UTM projection. 
 
 |Name|Station|E (m)|N (m)|Z (m)|
