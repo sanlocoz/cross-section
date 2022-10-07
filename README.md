@@ -100,10 +100,11 @@ This is the illustration on how to get the parameter:
 
 *Parameter formulation to give flexibility to the program*<br>
 
-In order to build .scr files, the code is actually similar to what we input in GUI where each `space` in .scr files define `enter` command in GUI.
-Therefore using trial and error in GUI there are several commands that are useful in most cases that are shown below.
+In order to build .scr files, the code is actually similar to what we input in GUI (graphical user interface) where each `space` in .scr files define `enter` command in GUI.
+Therefore using trial and error in GUI, we can reproduce that to our script files.
+There are several commands that are useful in most cases that are shown below.
 
-**creating polyline**
+*creating polyline*
 <pre><code>_layer set GarisElevasiTanah 
 PLINE 145.6291,350.637
 146.47276100761383,350.557
@@ -118,6 +119,7 @@ PLINE 145.6291,350.637
 153.10928660195157,350.307
 </code></pre>
 
+*creating line*
 <pre><code>_layer set GarisTabel 
 LINE 145.6291,343.387 145.6291,344.687 
 LINE 146.47276100761383,343.387 146.47276100761383,344.687 
@@ -132,6 +134,7 @@ LINE 152.38443766255025,343.387 152.38443766255025,344.687
 LINE 153.10928660195157,343.387 153.10928660195157,344.687
 </code></pre>
 
+*creating text*
 <pre><code>_layer set TextElevasiDistance 
 text s st1 j mc 145.62910,345.33700 90 18.650
 text s st1 j mc 146.47276,345.33700 90 18.570
