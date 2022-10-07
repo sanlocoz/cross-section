@@ -70,7 +70,7 @@ STA 0+00 | B | 18.320 | 0.724849 | 7.480187
 ### Cut and fill calculations
 After getting existing cross-section for each station. 
 Planned cross section is defined in input_rencana folder.
-Cut and fill calculations is using Riemann sum where a continuous function is approximated using discrete geometry such as rectangle and trapezoid.
+Cut and fill calculations is using Riemann sum where area below a continuous function (or between two functions) is approximated using discrete geometry such as rectangle and trapezoid.
 
 <img src="img/7.png" alt="cross section" width="500"/> 
 
