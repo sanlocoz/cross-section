@@ -33,7 +33,7 @@ Regression process is done with <a href = "https://scikit-learn.org/stable/modul
 
 Normalization is needed for the coordinates using UTM projection. Why?
 
-The calculation of regression involving multiplication of each vector. As we know that in UTM actually the coordinates are very large number and the standard deviation is relatively small compared to the mean value.
+The calculation of regression involving multiplication of each vector. As we know that in UTM actually the coordinates are very large numbers and the standard deviation is relatively small compared to the mean value.
 
 <img src="img/1.PNG" alt="without normalization" width="500"/>
 
