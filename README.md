@@ -100,6 +100,10 @@ This is the illustration on how to get the parameter:
 
 *Parameter formulation to give flexibility to the program*<br>
 
+In order to build .scr files, the code is actually similar to what we input in GUI where each `space` in .scr files define `enter` command in GUI.
+Therefore using trial and error in GUI there are several commands that are useful in most cases that are shown below.
+
+**creating polyline**
 <pre><code>_layer set GarisElevasiTanah 
 PLINE 145.6291,350.637
 146.47276100761383,350.557
