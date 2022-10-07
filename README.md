@@ -69,6 +69,11 @@ STA 0+00 | B | 18.32 | 0.724849 | 7.480187
 
 ### Cut and fill calculations
 
+<img src="img/4.png" alt="cross section" width="500"/> 
+<img src="img/5.png" alt="cross section" width="500"/> 
+<img src="img/6.png" alt="cross section" width="500"/> 
+<img src="img/7.png" alt="cross section" width="500"/> 
+
 ### Automating tasks in AutoCAD
 
 <pre><code>_layer set GarisElevasiTanah 
