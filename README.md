@@ -7,6 +7,7 @@ It converts precision GPS data into cross-section data and later it is overlaid 
 ## Algorithms and concepts
 Data scarcity in our country and limitations in high-quality surveying techniques, made us rely on precision GPS data to obtain topography data.
 
+### Raw data
 The raw data that is obtained is in the format of easting, northing and elevation (E, N, Z respectively).
 E, N, Z data is taken in a straight line that is perpendicular to the long section of an open channel.
 This is one of the sample data in UTM projection. 
