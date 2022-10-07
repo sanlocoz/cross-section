@@ -26,6 +26,8 @@ This is one of the sample data in UTM projection.
 |STA.0+00|	B2	|487460.255	|9662015.507	|18.410|
 |STA.0+00|	B	|487459.627	|9662015.906	|18.320|
 
+### Regression and Normalization
+
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
