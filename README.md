@@ -11,7 +11,7 @@ The raw data that is obtained is in the format of easting, northing and elevatio
 E, N, Z data is taken in a straight line that is perpendicular to the long section of an open channel.
 This is one of the sample data in UTM projection. 
 
-Name	Code	E (m)	N (m)	Z (m)
+|Name|Code|E (m)|N (m)|Z (m)|
 STA.0+00	A	487464.944	9662010.643	18.650
 STA.0+00	A1	487464.168	9662011.063	18.570
 STA.0+00	A2	487463.685	9662011.385	18.070
