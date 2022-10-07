@@ -34,9 +34,9 @@ Regression process is done with <a href = "https://scikit-learn.org/stable/modul
 Normalization is needed for the coordinates using UTM projection. Why?
 
 
-<img src="img/1.PNG" alt="without normalization" width="700"/>
+<img src="img/1.PNG" alt="without normalization" width="500"/>
 
-<img src="img/2.PNG" alt="with normalization" width="700"/>
+<img src="img/2.PNG" alt="with normalization" width="500"/>
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
