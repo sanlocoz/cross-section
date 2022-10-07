@@ -44,6 +44,21 @@ Therefore to get best regression line we have to substract all N and E coordinat
 
 *N-E regression (plan view) with normalization*
 
+### Cross-section results
+Name | Code | Z | Delta X | X kumulatif
+| :----:   | :----:  | :----:   | :----:   | :----: |
+STA 0+00 | A | 18.65 | 0 | 0
+STA 0+00 | A1 | 18.57 | 0.843661 | 0.843661
+STA 0+00 | A2 | 18.07 | 0.568448 | 1.412109
+STA 0+00 | T1 | 17.82 | 1.318539 | 2.730648
+STA 0+00 | D1 | 17.43 | 0.499109 | 3.229757
+STA 0+00 | D2 | 17.21 | 0.49982 | 3.729577
+STA 0+00 | D3 | 17.38 | 0.499891 | 4.229468
+STA 0+00 | T2 | 18.06 | 0.499109 | 4.728577
+STA 0+00 | B1 | 18.98 | 0.551891 | 5.280468
+STA 0+00 | B2 | 18.41 | 1.47487 | 6.755338
+STA 0+00 | B | 18.32 | 0.724849 | 7.480187
+
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
   
