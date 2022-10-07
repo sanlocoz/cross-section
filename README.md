@@ -93,7 +93,12 @@ These pictures show the difference of number of partitions (red line shows the o
 *250 partitions*<br>
 
 ### Automating tasks in AutoCAD
+AutoCAD give the flexibility to automate tasks using .scr format files. In order to gives the flexibility to the program, I add many parameters that can be seen in `input_acad` folder.
+This is the illustration on how to get the parameter:
+
 <img src="img/8.png" alt="cross section" width="500"/>
+
+*Parameter formulation to give flexibility to the program*<br>
 
 <pre><code>_layer set GarisElevasiTanah 
 PLINE 145.6291,350.637
