@@ -37,7 +37,11 @@ The calculation of regression involving multiplication of each vector. As we kno
 
 <img src="img/1.PNG" alt="without normalization" width="500"/>
 
+*N-E regression (plan view) without normalization*
+
 <img src="img/2.PNG" alt="with normalization" width="500"/>
+
+*N-E regression (plan view) with normalization*
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
