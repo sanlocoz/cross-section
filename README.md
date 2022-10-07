@@ -28,6 +28,10 @@ This is one of the sample data in UTM projection.
 
 ### Regression and Normalization
 Regression is done to estimate the most likely cross-section from survey data. 
+Regression process is done with <a href = "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html"> sklearn.linear_model.LinearRegression</a> class.
+
+
+Normalization is needed for the coordinates data
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
