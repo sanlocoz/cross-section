@@ -161,6 +161,9 @@ text s st1 j mc 153.10929,345.33700 90 18.320
 	3.6.  Drag .scr file from output_scr file to AutoCAD and you will get thousands of existing and planned cross-sections.  
 
 ## Sample output
-This is the final result of the automation using Python programming:<br>
+This is the final result of the automation using Python programming (example of cross section template is given in master_cross folder):<br>
 
 <img src="img/9.PNG" alt="cross section" width="600"/>
+
+## What to do next?
+The organization of the program is still somewhat messy. In the future, for next development it is better to make the function pre condition and post condition clearly before jumping to code the program.
