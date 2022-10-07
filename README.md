@@ -80,15 +80,15 @@ The number of partitions to get accurate results is determined by trial and erro
 I use 250 partitions to get sufficient accuracy and reliable performance (in terms of time, not too slow for standard computer)
 These pictures show the difference of number of partitions (red line shows the outer side of the trapezoid):
 
-<img src="img/4.png" alt="cross section" width="250"/>
+<img src="img/4.png" alt="cross section" width="200"/>
 
 *5 partitions*<br>
 
-<img src="img/5.png" alt="cross section" width="250"/>
+<img src="img/5.png" alt="cross section" width="200"/>
 
 *50 partitions*<br>
 
-<img src="img/6.png" alt="cross section" width="250"/>
+<img src="img/6.png" alt="cross section" width="200"/>
 
 *250 partitions*<br>
 
