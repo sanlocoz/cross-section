@@ -40,6 +40,7 @@ Therefore to get best regression line we have to substract all N and E coordinat
 
 *N-E regression (plan view) without normalization*
 
+
 <img src="img/2.PNG" alt="with normalization" width="500"/>
 
 *N-E regression (plan view) with normalization*
