@@ -61,6 +61,10 @@ STA 0+00 | B1 | 18.98 | 0.551891 | 5.280468
 STA 0+00 | B2 | 18.41 | 1.47487 | 6.755338
 STA 0+00 | B | 18.32 | 0.724849 | 7.480187
 
+<img src="img/3.PNG" alt="cross section" width="600"/>
+
+*Sample cross-section output*
+
 ### Cut and fill calculations
 
 ### Automating tasks in AutoCAD
@@ -86,6 +90,6 @@ STA 0+00 | B | 18.32 | 0.724849 | 7.480187
   
 	3.5.  Run main3.bat to make AutoCAD script.  
   
-	3.6.  Drag .scr file from output_scr file to AutoCAD and Voila you will get thousands of existing and planned cross-sections.  
+	3.6.  Drag .scr file from output_scr file to AutoCAD and you will get thousands of existing and planned cross-sections.  
 
 ## Sample output
