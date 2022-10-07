@@ -5,6 +5,8 @@ This repository contains cut and fill calculations for cross-section using Pytho
 It converts precision GPS data into cross-section data and later it is overlaid with designed cross-sections to get cut and fill calculations.
 
 ## Algorithms and concepts
+Data scarcity in Indonesia and limitations in the access of high-quality surveying techniques, made us rely on precision GPS manual data to obtain topography data.
+
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
