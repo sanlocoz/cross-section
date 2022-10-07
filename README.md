@@ -27,7 +27,7 @@ This is one of the sample data in UTM projection.
 |STA.0+00|	B	|487459.627	|9662015.906	|18.320|
 
 ### Regression and Normalization
-Regression is done to estimate the most likely cross-section from survey data.
+Regression is done to estimate the most likely cross-section from survey data. 
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
@@ -38,9 +38,9 @@ Regression is done to estimate the most likely cross-section from survey data.
 
 	3.1. You have to familiarize yourself with csv in input file. Parameters are given in Indonesian language.
   
-		3.1.1. input       	 = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
+		3.1.1. input = raw data from geodetic GPS, it contains of E, N, Z for each of station.  
 		3.1.2. input_rencana = it gives the criteria of dimension and elevation where we plan the open channel.  
-  		3.1.3. input_acad    = it contains several parameters to draw the cross-section to AutoCAD application.  
+  		3.1.3. input_acad = it contains several parameters to draw the cross-section to AutoCAD application.  
   
 	3.2.  Delete all the folder that has prefix "output".
   
