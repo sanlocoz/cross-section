@@ -76,20 +76,21 @@ Cut and fill calculations is using Riemann sum where area below a continuous fun
 
 *Riemann sum concepts*
 
-For the number partition that is used is 
+The number of partitions to get accurate results is determined by trial and error.
+I use 250 partitions to get sufficient accuracy and reliable performance (in terms of time, not too slow for standard computer)
+These pictures show the difference of number of partitions (red line shows the outer side of the trapezoid):
 
 <img src="img/4.png" alt="cross section" width="250"/>
 
-*5 partitions*
+*5 partitions*<br>
 
 <img src="img/5.png" alt="cross section" width="250"/>
 
-*50 partitions*
+*50 partitions*<br>
 
 <img src="img/6.png" alt="cross section" width="250"/>
 
-*250 partitions*
-
+*250 partitions*<br>
 
 ### Automating tasks in AutoCAD
 
