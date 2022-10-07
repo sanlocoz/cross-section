@@ -1,7 +1,8 @@
 # cross-section
 
 ## What is this program about?
-This repository is containing cut and fill calculations for cross-section using Python programming language. This codes is made to calculate cut and fill volume in open channel planning.
+This repository contains cut and fill calculations for cross-section using Python programming language. 
+It converts precision GPS data into cross section data and later it is overlayed with planned cross section to get cut and fill calculations.
 
 ## How to use?
 1. Input file is given in the folder that has prefix "input".
