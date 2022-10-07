@@ -1,6 +1,9 @@
 # cross-section
+
+## What is this program about?
 This repository is containing cut and fill calculations for cross-section using Python programming language. This codes is made to calculate cut and fill volume in open channel planning.
 
+## How to use?
 1. Input file is given in the folder that has prefix "input".
   
 2. Output file is given in the folder that has prefix "output".
