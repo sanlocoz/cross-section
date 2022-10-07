@@ -69,7 +69,7 @@ STA 0+00 | B | 18.320 | 0.724849 | 7.480187
 
 ### Cut and fill calculations
 After getting existing cross-section for each station. 
-Planned cross section is defined in input_rencana folder.
+Planned cross section is defined in `input_rencana` folder.
 Cut and fill calculations is using Riemann sum where area below a continuous function (or between two functions) is approximated using discrete geometry such as rectangle and trapezoid.
 
 <img src="img/7.png" alt="cross section" width="500"/> 
@@ -167,3 +167,4 @@ This is the final result of the automation using Python programming (example of 
 
 ## What to do next?
 The organization of the program is still somewhat messy. In the future, for next development it is better to make the function pre condition and post condition clearly before jumping to code the program.
+Parameter that is only requiring key-value pair could be more organized if in JSON format rather than .csv files (for AutoCAD parameter in `input_acad` folder)
