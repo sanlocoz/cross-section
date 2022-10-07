@@ -74,6 +74,9 @@ Cut and fill calculations is using Riemann sum where area below a continuous fun
 
 <img src="img/7.png" alt="cross section" width="500"/> 
 
+*Riemann sum concepts*
+
+For the number partition that is used is 
 <img src="img/4.png" alt="cross section" width="250"/> 
 <img src="img/5.png" alt="cross section" width="250"/> 
 <img src="img/6.png" alt="cross section" width="250"/> 
