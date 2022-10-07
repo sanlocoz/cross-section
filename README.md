@@ -77,9 +77,15 @@ Cut and fill calculations is using Riemann sum where area below a continuous fun
 *Riemann sum concepts*
 
 For the number partition that is used is 
+
 <img src="img/4.png" alt="cross section" width="250"/> 
+*5 partitions*
+
 <img src="img/5.png" alt="cross section" width="250"/> 
+*50 partitions*
+
 <img src="img/6.png" alt="cross section" width="250"/> 
+*250 partitions*
 
 
 ### Automating tasks in AutoCAD
