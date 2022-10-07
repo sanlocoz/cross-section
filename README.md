@@ -68,11 +68,16 @@ STA 0+00 | B | 18.32 | 0.724849 | 7.480187
 *Sample cross-section output*
 
 ### Cut and fill calculations
+After getting existing cross-section for each station. 
+Planned cross section is defined in input_rencana folder.
+Cut and fill calculations is using Riemann sum algorithm with number of 
+
+<img src="img/7.png" alt="cross section" width="500"/> 
 
 <img src="img/4.png" alt="cross section" width="250"/> 
 <img src="img/5.png" alt="cross section" width="250"/> 
 <img src="img/6.png" alt="cross section" width="250"/> 
-<img src="img/7.png" alt="cross section" width="500"/> 
+
 
 ### Automating tasks in AutoCAD
 
