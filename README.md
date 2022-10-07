@@ -45,7 +45,7 @@ Therefore to get best regression line we have to substract all N and E coordinat
 *N-E regression (plan view) with normalization*
 
 ### Cross-section results
-Name | Code | Z | Delta X | X kumulatif
+Name | Station | Z | Delta X | Cumulative X
 | :----:   | :----:  | :----:   | :----:   | :----: |
 STA 0+00 | A | 18.65 | 0 | 0
 STA 0+00 | A1 | 18.57 | 0.843661 | 0.843661
